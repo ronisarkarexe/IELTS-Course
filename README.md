@@ -10,7 +10,7 @@ Instructions on setting up your project locally.
 ```
 
 ### After cloning let's run the project.
-- cd user-feedback-frontend
+- cd IELTS-Course
 - Install the dependencies using `npm install`
 
 ### Run
